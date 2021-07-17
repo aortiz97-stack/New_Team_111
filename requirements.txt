@@ -2,3 +2,7 @@ matplotlib
 seaborn
 pingouin
 missingno
+geopandas
+pyshp
+shapely
+plotly-geo
