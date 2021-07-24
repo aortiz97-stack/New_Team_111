@@ -6,3 +6,4 @@ geopandas
 pyshp
 shapely
 plotly-geo
+sklearn
